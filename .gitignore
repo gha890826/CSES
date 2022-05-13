@@ -46,4 +46,5 @@
 *.vb
 *.wsf
 
-# End of https://www.toptal.com/developers/gitignore/api/c++,executable
+###vscode###
+config/.vscode
