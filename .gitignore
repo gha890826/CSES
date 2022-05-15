@@ -47,4 +47,4 @@
 *.wsf
 
 ###vscode###
-config/.vscode
+.vscode/

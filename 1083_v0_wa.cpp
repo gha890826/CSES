@@ -14,7 +14,7 @@ int main()
 		n--;
 	}
 	cout<<ori_sum-sum;
-	cout<<"***ori_sum "<<ori_sum<<endl;
-	cout<<"***sum "<<sum;
+	//cout<<"***ori_sum "<<ori_sum<<endl;
+	//cout<<"***sum "<<sum;
 }
 //ori_sum計算時會超過long long int 
