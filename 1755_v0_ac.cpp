@@ -12,7 +12,7 @@ int main()
 	{
 		symbols[n[i]]++;
 	}
-//	for (map<char,int>::iterator it= symbols.begin();it != symbols.end();it++)
+//	for (auto it= symbols.begin();it != symbols.end();it++)
 //	{
 //    	std::cout << "id: " << (*it).first << ", num: " << (*it).second << "\n";
 //	}
