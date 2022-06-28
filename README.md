@@ -6,3 +6,6 @@
 如 Weird Algorithm https://cses.fi/problemset/task/1068  
 檔案名稱為: 1068_v0_ac.cpp
 
+# 優質網站
+* [CSES Sorting and Searching section editorials](https://codeforces.com/blog/entry/83295)
+* [ARS LONGA VITA BREVIS (YouTube channel)](https://www.youtube.com/channel/UCFkWVr33NMrcfYZWXOJvKsw/videos)
